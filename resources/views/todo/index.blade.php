@@ -10,7 +10,7 @@
             <table class="table">
                 <thead>
                 <tr>
-                <th width="50%">タイトル</th>
+                    <th width="50%">タイトル</th>
                     <th width="20%">期限</th>
                     <th width="15%"></th>
                     <th width="15%"></th>
