@@ -19,7 +19,6 @@ class TodoTableSeeder extends Seeder
                 'status' => 0,
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s'),
-                //asasas
             ]);
         }
     }
